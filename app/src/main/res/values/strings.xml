@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+
+    <string name="no_internet">No internet connection found.</string>
+    <string name="nothing_found">No news found.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <string name="settings_min_results_label">Minimum News Results</string>
+    <string name="settings_min_results_key" translatable="false">min_results</string>
+    <string name="settings_min_result_default" translatable="false">10</string>
+
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+
+
+    <string name="settings_topic_label">Topic</string>
+    <string name="settings_topic_key" translatable="false">q</string>
+    <string name="settings_topic_default" translatable="false">@string/settings_topic_football_value</string>
+
+    <string name="settings_topic_football_label">Football</string>
+    <string name="settings_topic_football_value" translatable="false">football</string>
+
+    <string name="settings_topic_world_news_label">World News</string>
+    <string name="settings_topic_world_news_value" translatable="false">world news</string>
+
+    <string name="settings_topic_global_development_label">Global Development</string>
+    <string name="settings_topic_global_development_value" translatable="false">global development</string>
+
+    <string name="settings_topic_environment_label">Environment</string>
+    <string name="settings_topic_environment_value" translatable="false">environment</string>
+
+    <string name="settings_topic_science_label">Science</string>
+    <string name="settings_topic_science_value" translatable="false">science</string>
+
+    <string name="settings_topic_tech_label">Tech</string>
+    <string name="settings_topic_tech_value" translatable="false">tech</string>
+
+    <string name="settings_topic_business_label">Business</string>
+    <string name="settings_topic_business_value" translatable="false">business</string>
+
+    <string name="settings_topic_games_label">Games</string>
+    <string name="settings_topic_games_value" translatable="false">games</string>
+
+    <string name="settings_topic_music_label">Music</string>
+    <string name="settings_topic_music_value" translatable="false">music</string>
+
+    <string name="settings_topic_fashion_label">Fashion</string>
+    <string name="settings_topic_fashion_value" translatable="false">fashion</string>
+
+
+
+</resources>
